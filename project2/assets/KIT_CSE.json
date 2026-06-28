@@ -1,0 +1,233 @@
+[ 
+    {
+        "percentile": "94.8869552",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "OPEN",
+        "seat_type": "GOPENS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "86.6965956",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "SC",
+        "seat_type": "GSCS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "18.4453326",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "ST",
+        "seat_type": "GSTS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "84.4681938",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "VJ",
+        "seat_type": "GVJS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "93.6849981",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "NT1",
+        "seat_type": "LNT1SS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "92.8392664",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "NT2",
+        "seat_type": "GNT2S",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "90.5963303",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "NT3",
+        "seat_type": "GNT3S",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "93.4367098",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "OBC",
+        "seat_type": "GOBCS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "95.0617284",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "OPEN",
+        "seat_type": "LOPENS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "86.3770498",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "SC",
+        "seat_type": "LSCS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "86.1075077",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "VJ",
+        "seat_type": "LVJS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "91.4358152",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "NT",
+        "seat_type": "LNT1S",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "91.4358152",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "NT",
+        "seat_type": "LNT2S",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "89.3970979",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "NT",
+        "seat_type": "LNT3S",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "93.4566198",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "OBC",
+        "seat_type": "LOBCS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "19.1048437",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "PWD",
+        "seat_type": "PWDOPENS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "19.1048437",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "PWD",
+        "seat_type": "PWDOPENS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "92.7333060",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "DEFOPENS",
+        "seat_type": "DEFOPENS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "92.7333060",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "DEFOPENS",
+        "seat_type": "DEFOPENS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "69.5976990",
+        "branch": "Computer Science and Engineering",
+        "gender": "M",
+        "category": "DEFOBCS",
+        "seat_type": "DEFOBCS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    },
+    {
+        "percentile": "69.5976990",
+        "branch": "Computer Science and Engineering",
+        "gender": "F",
+        "category": "DEFOBCS",
+        "seat_type": "DEFOBCS",
+        "college_name": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur",
+        "branch_code": "626724210",
+        "region": "Kolhapur",
+        "district": "Kolhapur"
+    }    
+]    
